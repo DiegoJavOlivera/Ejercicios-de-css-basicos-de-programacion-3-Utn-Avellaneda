@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+h1{
+    padding: 50px;
+    background: lightgreen;
+}
+
+div{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 30px;
+    font-size: 15px;
+    background: salmon;
+}
+
+h6{
+    font-size: 15px;
+}

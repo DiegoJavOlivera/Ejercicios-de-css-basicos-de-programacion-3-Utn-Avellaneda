@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.primerContenedor{
+    background: yellowgreen;
+    padding: 15px;
+}
+
+.segundoContenedor{
+    padding: 15px;
+    background: lightblue;
+} 
+
+
+p.pTachado{
+    text-decoration: underline;
+}

@@ -1,0 +1,10 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.parrafo-estrecho{
+    padding: 20px;
+    width: 200px;
+    text-align: justify;
+}

@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    background: black;
+}
+
+
+p{
+    padding: 20px;
+}
+
+p.parrafoIzquierda{
+
+    color: #00ff00;
+    text-align: left;
+}
+
+p.parrafoCentrado{
+    color: blue;
+    text-align: center;
+}
+
+p.parrafoDerecha{
+    color: red;
+    text-align: right;
+}

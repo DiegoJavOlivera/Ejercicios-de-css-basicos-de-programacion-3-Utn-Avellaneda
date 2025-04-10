@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+div{
+    text-align: center;
+}
+
+div h1{
+    background: gray;
+    padding: 20px;
+    text-decoration: underline;
+}
+
+p{
+    background: whitesmoke;
+    font-size: xx-large;
+}
+
+span.subrayado{
+    color: #00aa00;
+    text-decoration: underline;
+}
+
+span.tachado{
+    color: #00aa00;
+    text-decoration: line-through;
+}
